@@ -3,5 +3,11 @@ h1{
     font-size: 90px;
     color: black;
 }
+body{
+    background-image: url("mortal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 
