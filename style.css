@@ -1,16 +1,15 @@
 h1{
     text-align: center;
-    font-size: 90px;
+    font-size: 100px;
     color: black;
 }
 body{
     background-image: url("mortal.jpg");
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
-    padding: 50%;
-    width: 50%;
-    height: 50%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
 }
 
 
