@@ -20,4 +20,8 @@ body{
     display: inline-block;
     cursor: pointer;
 }
+.cabecalho{
+    border-style: groove;
+    border-color: black;
 
+}
